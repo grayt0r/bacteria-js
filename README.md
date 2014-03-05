@@ -4,7 +4,7 @@ To run:
 
 `node bacteria`
 
-Enter newline separated coordinates, followed by `-1, -1`, e.g.:
+Enter newline separated coordinates, followed by `-1,-1`, e.g.:
 
 ```
 1,2
