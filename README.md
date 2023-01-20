@@ -2,7 +2,7 @@
 
 To run:
 
-`node bacteria`
+`node index.mjs`
 
 Enter newline separated coordinates, followed by `-1,-1`, e.g.:
 
@@ -15,7 +15,4 @@ Enter newline separated coordinates, followed by `-1,-1`, e.g.:
 
 Defaults to a single generation, but can be overridden:
 
-`node bacteria 2`
-
-
-
+`node index.mjs 2`

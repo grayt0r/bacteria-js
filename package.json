@@ -1,0 +1,17 @@
+{
+  "name": "bacteria-js",
+  "description": "Solution to the bacteria coding challenge",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs",
+    "test": "node --test tests.mjs"
+  },
+  "author": "Ross Grayton",
+  "license": "ISC",
+  "dependencies": {
+    "immutable": "^4.2.2"
+  },
+  "engines": {
+    "node": ">=18.8"
+  }
+}
